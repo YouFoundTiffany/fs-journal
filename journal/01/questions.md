@@ -3,16 +3,16 @@
     > We use Git to push our code to a source control. 
 
 02. In the terminal, what is the command `mkdir` used for?
-    > | ANSWER HERE |
+    > Make a new directory or a new folder.
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    >Pseudo-classes are a reactive styles that can be added to a selector in CSS with the use of a colon and a keyword.
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > Specificity is the rank or score a particular style declaration has in css, which determines what actual styling is applied to an element.
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > The !Important signifier is used to override all specificity ranks. I can quickly cause debugging issues due to the nature of css hierarchies and the natural 
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
