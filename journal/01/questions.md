@@ -22,10 +22,11 @@
         }
     ```
 
-    > | ANSWER HERE |
+    >All CSS rules must have the following to work correctly, a selector, a property, and a value. A selector identifies which HTML element(s) is being styled, for example, the h1 header. A property specifies the characteristics of the HTML element that is being styled, like color. A value determines the nature of the styling, for example, this specific color of yellow #FFCC33. 
+
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > Good design 
 
 08. What is the purpose of ***wireframing***?
     > | ANSWER HERE |
