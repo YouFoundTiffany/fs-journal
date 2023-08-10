@@ -35,7 +35,7 @@
     > | ANSWER HERE |
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    >The flex property allows for elements to be displayed as a flexible box model. You can then arrange in a row or a column. 
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > Height, width, which includes padding but not margin.
