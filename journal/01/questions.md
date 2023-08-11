@@ -29,10 +29,10 @@
     > Good design 
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > Wireframing creates a model or mockup of a project. The purpose is to move from low to high-fidelity concepts and provide clear communication to the customer, team, project members, and the customer in each phase.  
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > Absolutely yes. Every project/customer proposal should include a wireframe in the contract and spec sheet. This documentation will show what is needed and what is planned to complete all deliverables. 
 
 10. Define the display `:flex property:`
     >The flex property allows for elements to be displayed as a flexible box model. You can then arrange in a row or a column. 
