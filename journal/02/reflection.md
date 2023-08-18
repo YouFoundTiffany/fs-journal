@@ -3,6 +3,9 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+Psuedo coding
 - What did you learn that was a shock or surprise?
 - What are you struggling with?
+retaining and understanding basic js.
 - What would you count as a victory?
+every day I understand more.
