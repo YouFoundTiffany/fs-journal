@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/YouFoundTiffany/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/YouFoundTiffany/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/YouFoundTiffany/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/YouFoundTiffany/<ASSIGNMENT_REPO>)**
+* **[Repo](No Monday Lab)**
+* **[Repo](https://github.com/YouFoundTiffany/lab-09052023-gregslistNODE)**
+* **[Repo](https://github.com/YouFoundTiffany/lab-09062023-planets)**
+* **[Repo](No Thursday Lab)**
