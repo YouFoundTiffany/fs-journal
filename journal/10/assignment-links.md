@@ -1,5 +1,5 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/YouFoundTiffany/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/YouFoundTiffany/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/YouFoundTiffany/<ASSIGNMENT_REPO>)**
+* **[Repo](https://github.com/YouFoundTiffany/ChoreScore)**
+* **[Repo](https://github.com/YouFoundTiffany/lateSummer23-sharpList)**
+* **[Repo](https://github.com/YouFoundTiffany/lateSummer23-sharpList)**
