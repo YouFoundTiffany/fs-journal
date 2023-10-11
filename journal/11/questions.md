@@ -72,4 +72,23 @@ Public members are visible in derived classes and are part of the derived class'
 
   ```
 
-  > | ANSWER HERE |
+  >  internal List<Doctors> GetDoctors()
+  {
+    string sql = @"
+    SELECT
+    doct.*,
+    pati.*
+    FROM doctors doct
+    JOIN patients pati ON pati.id = doct.doctorId
+    ;";
+
+    List<Doctor> doctors = _db.Query<Doctor, Patient, Doctor>(
+      sql,
+      (doctor, patient) =>
+      {
+        doctor.doctors = patient;
+        return doctors;
+      }
+      ).ToList();
+    return doctors;
+  }
